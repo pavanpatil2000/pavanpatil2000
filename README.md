@@ -44,7 +44,7 @@ Sales analysis project exploring revenue trends, product performance, and paymen
 
 **Tools Used:** SQL, Power BI, Excel  
 
-🔗 Project Link 
+🔗 Project Link                                                                                                                                                    
 https://github.com/pavanpatil2000/Retail-Sales-Performance-Analysis
 
 
