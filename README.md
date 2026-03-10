@@ -57,7 +57,7 @@ https://github.com/pavanpatil2000/Retail-Sales-Performance-Analysis
 Pavanhatolkar4@gmail.com
 
 💼 LinkedIn  
-(https://www.linkedin.com/in/pavan-hatolkar-415845211/)
+https://www.linkedin.com/in/pavan-hatolkar-415845211
 
 💻 GitHub  
 https://github.com/pavanpatil2000
