@@ -60,7 +60,7 @@ Pavanhatolkar4@gmail.com
 https://www.linkedin.com/in/pavan-hatolkar-415845211
 
 💻 GitHub  
-https://github.com/pavanpatil2000
+https://github.com/PavanHatolkar
 
 ---
 
