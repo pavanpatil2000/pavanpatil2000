@@ -1,75 +1,67 @@
-# Hi there 👋 I'm Pavan
+# Hi 👋 I'm Pavan
 
-💻 Aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
+💻 **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights and building interactive dashboards.
 
-I enjoy working with data to discover trends, solve business problems, and create impactful dashboards.
+I enjoy analyzing datasets, identifying trends, and solving business problems using data.
 
 ---
 
 ## 🚀 About Me
 
 - 📊 Interested in **Data Analytics & Business Intelligence**
-- 📈 Skilled in analyzing data and building dashboards
-- 🧠 Currently improving **SQL, Python, and Power BI**
+- 📈 Skilled in **SQL, Power BI, Excel, and Python**
+- 📉 Experienced in building **data dashboards and KPI reports**
+- 🌱 Currently learning **advanced analytics and real-world data projects**
 - 🎯 Goal: Become a professional **Data Analyst**
 
 ---
 
-## 🛠 Skills & Tools
+## 🛠 Tools & Technologies
 
-### Data Analysis
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-yellow)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green)
-
-### Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-orange)
-
-### Other Tools
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-orange)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-black)
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-lightgrey)
+![GitHub](https://img.shields.io/badge/GitHub-Project%20Portfolio-lightgrey)
 
 ---
 
 ## 📊 Featured Projects
 
-### 1️⃣ Bank Customer Churn Analysis
-Analyze customer behavior and identify factors leading to churn.
+### 📌 Bank Customer Churn Analysis
+End-to-end data analysis project identifying customer churn patterns in a banking dataset.
+
+**Tools Used:** SQL, Excel, Power BI  
 
 🔗 Project Link  
 https://github.com/pavanpatil2000/Bank-Customer-Churn-Analysis
 
-Tools Used:
-- SQL
-- Power BI
-- Excel
-
 ---
 
-### 2️⃣ Retail Sales Performance Analysis
-Retail sales dashboard analyzing revenue trends and product performance.
+### 📌 Retail Sales Performance Analysis
+Sales analysis project exploring revenue trends, product performance, and payment behavior.
 
-Tools Used:
-- SQL
-- Power BI
-- Excel
+**Tools Used:** SQL, Power BI, Excel  
 
+🔗 Project Link 
+(https://github.com/pavanpatil2000/Retail-Sales-Performance-Analysis)
 ---
 
 ## 📈 GitHub Stats
 
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanpatil2000&show_icons=true&theme=default)
+![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanpatil2000&show_icons=true)
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn  
-https://www.linkedin.com
+💼 LinkedIn  
+(Add your LinkedIn link)
 
-GitHub  
+💻 GitHub  
 https://github.com/pavanpatil2000
 
 ---
 
-⭐ Always eager to learn new tools and improve my data analysis skills.
+⭐ I am always eager to learn new technologies and improve my data analysis skills.
