@@ -46,18 +46,18 @@ Sales analysis project exploring revenue trends, product performance, and paymen
 
 🔗 Project Link 
 (https://github.com/pavanpatil2000/Retail-Sales-Performance-Analysis)
----
 
-## 📈 GitHub Stats
-
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavanpatil2000&show_icons=true)
 
 ---
+
 
 ## 📫 Connect With Me
 
+📧 Email
+Pavanhatolkar4@gmail.com
+
 💼 LinkedIn  
-(Add your LinkedIn link)
+(https://www.linkedin.com/in/pavan-hatolkar-415845211/)
 
 💻 GitHub  
 https://github.com/pavanpatil2000
